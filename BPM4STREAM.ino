@@ -1,8 +1,8 @@
-
 #include <Wire.h>
 #include "MAX30105.h"
 #include <ESP8266WiFi.h>
 #include "heartRate.h"
+// MAX30102 lib: https://github.com/sparkfun/SparkFun_MAX3010x_Sensor_Library
 
 MAX30105 particleSensor;
 WiFiServer server(80);
