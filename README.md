@@ -41,4 +41,4 @@ N'oubliez pas non plus de setup le wifi en ligne 23
 
 Enjoy ^^  
 Et montrez moi vos résultats !  
-*(Des mises à jours arrive prochainement pour facilité le setup dans le code)*  
+*(Des mises à jours arrivent prochainement pour facilité le setup dans le code)*  
