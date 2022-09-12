@@ -19,6 +19,7 @@ Also don't forget to setup the wifi line 23
 
 Enjoy ^^  
 And show me the result !  
+*(Some update will come soon to ease the setup in the code)*  
 
 ====================================================================  
 
@@ -40,3 +41,4 @@ N'oubliez pas non plus de setup le wifi en ligne 23
 
 Enjoy ^^  
 Et montrez moi vos résultats !  
+*(Des mises à jours arrive prochainement pour facilité le setup dans le code)*  
