@@ -1,7 +1,7 @@
 # BPM4STREAM v1.0
 ![AlienTest](https://github.com/iveinsomnia/BPM4STREAM/blob/main/pic1.jpg?raw=true)
 ![AlienTest](https://github.com/iveinsomnia/BPM4STREAM/blob/main/screenAlien.jpg?raw=true)
-EN:
+EN:  
 Simple heartbeat for streamer with ESP8266 & MAX30102 (and MAX30105)  
 
 I made this small and easy project for streamer who wants to do horror games on halloween streams ^^  
