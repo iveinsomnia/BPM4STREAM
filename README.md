@@ -12,14 +12,15 @@ Then
 VIN - SDA - SCL - GRD <- MAX30105  
 3v3 -  D2 -  D1 - GRD <- ESP8266 (D1 Mini here, please check your manual for SDA & SCL)  
 
-Colors can be modified here:  
-line 75: "color:#09F;"  
-line 87: "c.strokeStyle='#039'"  
+You can setup the colors, fonts and graph color here:  
+line 76: font color  
+line 77: font size  
+line 78: Font  
+line 92: line color  
 Also don't forget to setup the wifi line 23  
 
 Enjoy ^^  
 And show me the result !  
-*(Some update will come soon to ease the setup in the code)*  
 
 ====================================================================  
 
@@ -34,11 +35,12 @@ Ensuite:
 VIN - SDA - SCL - GRD <- MAX30105  
 3v3 -  D2 -  D1 - GRD <- ESP8266 (ici sur un D1 Mini, Vérifier le manuel pour trouver le SDA & SCL)  
 
-Les couleurs peuvent être modifié ici:  
-ligne 75: "color:#09F;"  
-ligne 87: "c.strokeStyle='#039'"  
+Les couleurs, police, tailles et couleur du graphique peuvent être modifié ici:  
+ligne 76: font color  
+ligne 77: font size  
+ligne 78: Font  
+ligne 92: line color  
 N'oubliez pas non plus de setup le wifi en ligne 23  
 
 Enjoy ^^  
 Et montrez moi vos résultats !  
-*(Des mises à jours arrivent prochainement pour facilité le setup dans le code)*  
